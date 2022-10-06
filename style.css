@@ -13,17 +13,18 @@
     display: grid;
     grid-template-columns: 24% 24% 24% 25%;
     grid-template-rows: 50% 50%;
-    gap: 5px;
+    gap: 15px;
     
     
     
     
 }
 .maindiv{
-    border: 2px solid black;
+    
     padding: 20px;
     
     border-radius:5px;
+    box-shadow: 2px 2px 2px 2px hsl(0,0%,81%);
     
 }
 #one
