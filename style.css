@@ -33,24 +33,34 @@
     background-image: url(./bg-pattern-quotation\ \(1\).svg);
     background-repeat: no-repeat;
     background-position: right 6% top;
+    overflow: scroll;
+    text-align: justify;
 
 }
 #two
 {
     grid-column: 3/4;
     background-color: #47445c;
+    overflow: scroll;
+    text-align: justify;
 }
 #three
 {
     grid-area: 1/4/3/5;
+    overflow: scroll;
+    text-align: justify;
 }
 #four
 {
     grid-column: 1/2; 
+    overflow: scroll;
+    text-align: justify;
 }
 #five
 {
     grid-column: 2/4;
     background-color: #000000;
+    overflow: scroll;
+    text-align: justify;
     
 }
